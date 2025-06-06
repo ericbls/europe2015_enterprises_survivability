@@ -1,43 +1,41 @@
-# Projeto Integrador – Master em Data Science (1º Trimestre)
+# Europe 2015 Enterprise Survivability
 
-## Descrição
+## Description
 
-Este projeto foi desenvolvido como parte do primeiro trimestre do Master em Data Science no Insper. O desafio consistia em construir um pipeline completo de dados e desenvolver modelos de classificação capazes de prever se uma empresa europeia deixaria de operar em até dois anos.
+This is an academic project, developed as a Master Degree in Data Science at Insper University Brazil. The challenge consisted of building a complete data pipeline and developing classification models capable of predicting whether a European company would cease operations within two years from the collected data.
 
-O trabalho integrou os conhecimentos adquiridos nas disciplinas de **Python para Ciência de Dados** e **Aprendizagem Estatística de Máquina I**, utilizando uma base de dados real com empresas atuantes entre 2005 e 2016.
+The work integrated the knowledge from Python and Statistical Machine Learning, using a real dataset of companies operating between 2005 and 2016.
 
-## Objetivo
+## Objective
 
-Criar, testar e avaliar modelos preditivos com base em dados financeiros e operacionais, simulando uma situação real de aplicação de Data Science em contexto empresarial.
+Create, test, and evaluate predictive models based on financial and operational data. It's a real-world application of Data Science in a business context.
 
-## Pipeline do Projeto
+## Project Pipeline
+- **Preprocessing in Python:**
+  - Data cleaning and removal of columns with a high percentage of missing values
+  - Creation of new variables (e.g., company age, sales transformation)
+  - Adjustments to variables with inconsistencies (e.g., negative sales)
+  - Definition of the target variable based on future operation
+  - Filtering of companies with revenue between 1,000 and 10 million euros
 
-- **Pré-processamento em Python:**
-  - Limpeza de dados e remoção de colunas com alto índice de valores ausentes
-  - Criação de novas variáveis (idade da empresa, transformação de vendas)
-  - Ajustes em variáveis com inconsistências (ex.: vendas negativas)
-  - Definição da variável-alvo com base em operação futura
-  - Filtragem de empresas com receita entre 1 mil e 10 milhões de euros
-
-- **Modelagem em R:**
-  - Construção e avaliação de modelos preditivos:
-    - Regressão Logística
-    - Árvore de Decisão
+- **Modeling in R:**
+  -  Building and evaluating predictive models:
+    - Logistic Regression
+    - Decision Tree
     - Random Forest
     - XGBoost
-  - Avaliação com métricas:
-    - Acurácia
+  - Evaluation using metrics:
+    - Accuracy
     - AUC
-    - Sensibilidade e Especificidade
-  - Interpretação de modelos com:
+    - Sensitivity and Specificity
+  - Model interpretation with:
     - VIP (Variable Importance Plot)
     - PDP (Partial Dependence Plot)
 
-## Resultados
+## Results
+The final model showed excellent predictive performance, with sales variables, company age, and capital structure standing out. The project received a top score from the evaluation panel.
 
-O modelo final apresentou excelente desempenho preditivo, com destaque para variáveis de vendas, idade da empresa e estrutura de capital. O projeto recebeu **nota máxima** pela banca avaliadora.
-
-## Estrutura do repositório
+## Repository Structure
 
 ```
 ├── data/                          # Base de dados utilizada
@@ -48,7 +46,7 @@ O modelo final apresentou excelente desempenho preditivo, com destaque para vari
 ├── README.md                      # Arquivo de descrição do projeto
 ```
 
-## Requisitos
+## Requirements:
 
 ### Python
 - pandas
@@ -67,7 +65,5 @@ O modelo final apresentou excelente desempenho preditivo, com destaque para vari
 - DALEX
 - caret
 
-## Autores
-
-Projeto desenvolvido por **Grupo 02** do Master em Data Science – Insper.  
+## Authors
 Para mais informações, entre em contato com [Seu Nome] via LinkedIn ou GitHub.
