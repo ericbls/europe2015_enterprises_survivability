@@ -38,12 +38,12 @@ The final model showed excellent predictive performance, with sales variables, c
 ## Repository Structure
 
 ```
-├── data/                          # Base de dados utilizada
-├── notebook/                      # Notebook de pré-processamento em Python
+├── data/                         # Database
+├── notebook/                     # Preprocessing Notebook using Python
 │   └── atividade_integradora_01_grupo02_v6.ipynb
-├── modelagem/                     # Relatório de modelagem e scripts em R
-├── imagens/                       # Gráficos e visualizações
-├── README.md                      # Arquivo de descrição do projeto
+├── models/                       # R scripts and Modelling Reports
+├── images/                       # Graphics Visualization
+├── README.md                     # Project description
 ```
 
 ## Requirements:
