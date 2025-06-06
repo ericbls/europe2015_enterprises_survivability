@@ -66,4 +66,5 @@ The final model showed excellent predictive performance, with sales variables, c
 - caret
 
 ## Authors
-Para mais informações, entre em contato com [Seu Nome] via LinkedIn ou GitHub.
+Project developed by Eric Buonpater Lee Santos, Guilherme Fidalgo Velloso, Arthur Campedelli.
+Check my LinkedIn Profile for more information https://www.linkedin.com/in/ericlee7/
