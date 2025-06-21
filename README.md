@@ -38,12 +38,13 @@ The final model showed excellent predictive performance, with sales variables, c
 ## Repository Structure
 
 ```
-├── data/                         # Database
-├── notebook/                     # Preprocessing Notebook using Python
-│   └── atividade_integradora_01_grupo02_v6.ipynb
-├── models/                       # R scripts and Modelling Reports
-├── images/                       # Graphics Visualization
-├── README.md                     # Project description
+├── data/                            # Database
+├── notebook/                        # Preprocessing Notebook using Python
+│   └── europe2015_enterpriese_survivability.ipynb
+│   └── europe2015_enterpriese_survivability.html
+├── ml_models/                       # R scripts and Modelling Reports
+├── images/                          # Graphics Visualization
+├── README.md                        # Project description
 ```
 
 ## Requirements:
