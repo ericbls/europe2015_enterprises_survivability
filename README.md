@@ -1,4 +1,4 @@
-# Europe 2015 Enterprise Survivability
+![image](https://github.com/user-attachments/assets/1e9223fb-6d31-49ef-925e-096845c86940)# Europe 2015 Enterprise Survivability
 
 ## Description
 
@@ -9,6 +9,7 @@ The work integrated the knowledge from Python and Statistical Machine Learning, 
 ## Objective
 
 Create, test, and evaluate predictive models based on financial and operational data. It's a real-world application of Data Science in a business context.
+![image](https://github.com/user-attachments/assets/2b907a03-c006-4ebe-8483-a03ac02ebbae)
 
 ## Project Pipeline
 - **Preprocessing in Python:**
