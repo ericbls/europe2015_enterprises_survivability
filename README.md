@@ -9,6 +9,7 @@ The work integrated the knowledge from Python and Statistical Machine Learning, 
 ## Objective
 
 Create, test, and evaluate predictive models based on financial and operational data. It's a real-world application of Data Science in a business context.
+
 ![Image](https://github.com/user-attachments/assets/fc93da17-42e1-436d-ae1f-6e3462f40686)
 
 ## Project Pipeline
