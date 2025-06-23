@@ -10,7 +10,9 @@ The work integrated the knowledge from Python and Statistical Machine Learning, 
 
 Create, test, and evaluate predictive models based on financial and operational data. It's a real-world application of Data Science in a business context.
 
-![Image](https://github.com/user-attachments/assets/fc93da17-42e1-436d-ae1f-6e3462f40686)
+![download (21)](https://github.com/user-attachments/assets/24c2466b-8497-422f-b919-ff3e3c65ab03)
+
+Acima uma imagem representando os ajustes de parâmetros através do algorítmo de machine learning de Regressão Ridge, um dos algorítmos de M.L. utilizados para previsão.
 
 ## Project Pipeline
 - **Preprocessing in Python:**
